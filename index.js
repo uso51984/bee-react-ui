@@ -1,1 +1,1 @@
-export default 'init product';
+export default 'init bee react ui product';
